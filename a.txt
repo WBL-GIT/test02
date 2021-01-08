@@ -1,3 +1,0 @@
-repository
-hello java
-hello world
